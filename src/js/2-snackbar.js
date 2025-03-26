@@ -1,7 +1,10 @@
 // Описаний у документації
-import iziToast from "izitoast";
+//import iziToast from "izitoast";
+
 // Додатковий імпорт стилів
-import "izitoast/dist/css/iziToast.min.css";
+//import "izitoast/dist/css/iziToast.min.css";
+import iziToast from './node_modules/izitoast/dist/js/iziToast.min.js';
+import './node_modules/izitoast/dist/css/iziToast.min.css';
 
 
 // Описані в коді повідомлення
