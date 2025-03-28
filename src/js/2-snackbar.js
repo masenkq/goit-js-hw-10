@@ -1,10 +1,8 @@
-// Описаний у документації
+import flatpickr from "flatpickr";
 import iziToast from "izitoast";
-
-// Додатковий імпорт стилів
 import "izitoast/dist/css/iziToast.min.css";
-// import iziToast from './node_modules/izitoast/dist/js/iziToast.min.js';
-// import './node_modules/izitoast/dist/css/iziToast.min.css';
+
+import "flatpickr/dist/flatpickr.min.css";
 
 
 // Описані в коді повідомлення
